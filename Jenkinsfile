@@ -6,7 +6,7 @@ pipeline {
     }
   }
 
-  environmet {
+  environment {
     IMAGE_NAME = "anandsbhavik12/jenkins-demo-app"
     IMAGE_TAG = "latest"
   }
